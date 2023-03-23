@@ -49,7 +49,7 @@ const btn = document.getElementById('mada')
 btn.addEventListener('click', () => {
     alert('まだ未完成だよ!!')
 })
-const btn2 = document.getElementById('atode')
-btn2.addEventListener('click', () => {
+const btn8 = document.getElementById('madadesuyo')
+btn8.addEventListener('click', () => {
     alert('まだ未完成だよ!!')
 })
