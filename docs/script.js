@@ -50,6 +50,6 @@ btn.addEventListener('click', () => {
     alert('まだ未完成だよ!!')
 })
 const btn2 = document.getElementById('atode')
-btn.addEventListener('click', () => {
+btn2.addEventListener('click', () => {
     alert('まだ未完成だよ!!')
 })
